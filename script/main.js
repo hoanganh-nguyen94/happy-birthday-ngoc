@@ -295,6 +295,8 @@ const animationTimeline = () => {
   // tl.seek("currentStep");
   // tl.timeScale(10);
 
+
+
   // Restart Animation on click
   const replyBtn = document.getElementById("replay");
   replyBtn.addEventListener("click", () => {
